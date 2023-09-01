@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/github/license/your-username/Texticalysis-Unveiling-the-Magic-Within-Words" alt="License">
     <img src="https://img.shields.io/github/stars/your-username/Texticalysis-Unveiling-the-Magic-Within-Words?style=social" alt="Stars">
 </div>
+
 ## About
 Welcome to **Texticalysis**, a mesmerizing exploration into the enigmatic world of words and language. This repository hosts an intricate C-based toolkit that brings to life the beauty of text analysis. By harnessing the power of AVL trees and advanced algorithms, Texticalysis empowers you to delve into word frequencies, sentiment analysis, and more.
 
