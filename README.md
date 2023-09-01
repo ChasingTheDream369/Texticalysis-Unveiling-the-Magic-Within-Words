@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/github/stars/your-username/Texticalysis-Unveiling-the-Magic-Within-Words?style=social" alt="Stars">
 </div>
 
-# Texticalysis: Unveiling the Magic Within Words
 <p align="center">
     <img src="https://your-image-url.com" alt="Texticalysis Logo">
 </p>
